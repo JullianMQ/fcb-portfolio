@@ -20,6 +20,9 @@ h1{
 a.btn-success {
   color:#a9c7e1;
 }
+a.btn-success:hover{
+  color:#a9c7e1;
+}
 #landing{
   height: 80dvh;
   display: flex;
